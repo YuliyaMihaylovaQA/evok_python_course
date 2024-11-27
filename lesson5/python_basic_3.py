@@ -104,5 +104,5 @@ my_text = f'First word is {{a}}, second word is {b}'
 print(my_text)
 
 template = 'Hello, {0}!'
-username = input('What is your name?')
+username = input('What is your name?')g
 print(template.format(username))
